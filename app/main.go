@@ -113,7 +113,7 @@ func index(w http.ResponseWriter, r *http.Request) {
 
 	title := os.Getenv("TITLE")
 	if title == "" {
-		title = "Rancher Demo"
+		title = "K8s Scale Showcase"
 	}
 
 	hostname := getHostname()
