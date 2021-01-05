@@ -1,0 +1,11 @@
+{
+  "name": "kube-scale-showcase",
+  "version": "0.0.1",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "semantic-ui": "2.2.13"
+  },
+  "author": "zcubbs",
+  "license": ""
+}

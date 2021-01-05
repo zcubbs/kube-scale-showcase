@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: source-vars
+data:
+  MY_NAMESPACE: kube-scale-showcase
+  URL_HOST: kube-scale-showcase.apps.zcubbs.com
