@@ -1,3 +1,4 @@
+credit goes to Adrian https://github.com/oskapt/rancher-demo
 # Rancher/Kubernetes Demo Application
 
 This is a Go demo application used for demonstrating Kubernetes and load balancing.
